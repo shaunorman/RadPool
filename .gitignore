@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+.pioenvs
+.piolibdeps
+.vscode
+
+.DS_Store
+.travis.yml
